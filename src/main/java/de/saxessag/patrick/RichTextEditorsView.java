@@ -1,8 +1,4 @@
 /*
- * Created: 24.03.2020
- * Copyright (c) Saxess AG. All rights reserved.
- */
-/*
 package de.saxessag.patrick;
 
 import com.vaadin.componentfactory.EnhancedRichTextEditor;

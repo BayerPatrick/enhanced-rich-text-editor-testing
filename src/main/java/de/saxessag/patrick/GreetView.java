@@ -1,7 +1,3 @@
-/*
- * Created: 25.03.2020
- * Copyright (c) Saxess AG. All rights reserved.
- */
 package de.saxessag.patrick;
 
 import com.vaadin.flow.component.Key;
@@ -15,9 +11,6 @@ import com.vaadin.flow.router.Route;
 import com.vaadin.flow.router.RouteAlias;
 import org.springframework.beans.factory.annotation.Autowired;
 
-/**
- * @author Patrick Bayer
- */
 @Route(value = "greet", layout = MainView.class)
 @RouteAlias(value = "", layout = MainView.class)
 @CssImport("./styles/shared-styles.css")
