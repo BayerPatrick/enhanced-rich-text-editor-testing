@@ -42,7 +42,7 @@ public class MainView extends VerticalLayout implements RouterLayout {
         final VerticalLayout menuBar = new VerticalLayout();
 
         menuBar.add(new RouterLink(GreetView.TITLE, GreetView.class));
-        //menuBar.add(new RouterLink(RichTextEditorsView.TITLE, RichTextEditorsView.class));
+        menuBar.add(new RouterLink(RichTextEditorsView.TITLE, RichTextEditorsView.class));
 
         appLayout.add(menuBar, childWrapper);
         add(appLayout);
