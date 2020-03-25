@@ -1,4 +1,3 @@
-/*
 package de.saxessag.patrick;
 
 import com.vaadin.componentfactory.EnhancedRichTextEditor;
@@ -13,11 +12,10 @@ public class RichTextEditorsView extends VerticalLayout {
 
     public RichTextEditorsView() {
         final H2 überschrift = new H2("Rich Text Editors");
-        //final RichTextEditor richTextEditor = new RichTextEditor();
         final EnhancedRichTextEditor enhancedRichTextEditor = new EnhancedRichTextEditor();
 
         add(überschrift, enhancedRichTextEditor);
     }
 }
- */
+
 
