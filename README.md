@@ -1,9 +1,6 @@
 # Project Base for Vaadin and Spring Boot
 
-This project can be used as a starting point to create your own Vaadin application with Spring Boot.
-It contains all the necessary configuration and some placeholder files to get you started.
-
-The best way to create your own project based on this starter is [start.vaadin.com](https://start.vaadin.com/) - you can get only the necessary parts and choose the package naming you want to use.
+This project is based on the [Vaadin's starter project](https://vaadin.com/start/v14) and aims to employ the [Enhanced Rich Text Editor](https://vaadin.com/directory/component/enhanced-rich-text-editor/overview) in a minimalistic application.
 
 ## Running the Application
 
